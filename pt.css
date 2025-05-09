@@ -1,0 +1,68 @@
+td,tr {
+
+    border: 1px solid black;
+    font-size: large;
+    font-weight: 100;
+    text-align: center;
+
+}
+.cen{
+   margin-left: 130px;
+   
+}
+table{
+    text-align: center;
+}
+#nb {
+    border: 0cap;
+}
+td {
+    width: 60px;
+}
+
+.lp {
+    background-color: rgb(199, 141, 199);
+}
+.ly {
+    background-color: rgb(225, 225, 113);
+}
+.lyr {
+    background-color: rgb(225, 225, 113);
+    color: brown;
+}
+.b{
+    background-color: rgb(106, 130, 239);
+}
+.bb{
+    background-color: rgb(247, 221, 225);
+}
+.o{
+    background-color: rgba(243, 171, 38, 0.822);
+}
+.pg{
+    background-color: rgb(196, 246, 122);
+}
+.c{
+    background-color: bisque;
+}
+.v{
+    background-color: rgb(226, 239, 250);
+}
+.ch{
+    background-color: rgb(236, 130, 54);
+}
+#gr{
+    color: green;
+}
+#blue{
+    color: blue;
+}
+#brown{
+    color: brown;
+}
+h1{
+    background-color: yellow;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 10px;
+}
